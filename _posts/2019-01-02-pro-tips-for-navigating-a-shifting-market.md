@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pro Tips for Navigating a Shifting Market
-date: 2018-12-06 19:23:12
+date: 2019-01-02 19:23:00
 tags:
   - Market Update
 excerpt: >-
