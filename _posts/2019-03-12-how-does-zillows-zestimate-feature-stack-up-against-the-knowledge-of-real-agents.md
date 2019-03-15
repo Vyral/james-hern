@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/hern-group-ss-zestimates-email.jpg
-youtube_code: que-GuFXgvU
+youtube_code: p0FRzdwAm9w
 ---
 
 {% include youtube.html %}
