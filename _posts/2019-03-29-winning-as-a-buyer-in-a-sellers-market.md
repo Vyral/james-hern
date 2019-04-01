@@ -19,7 +19,7 @@ youtube_code: OHOKC__7RgY
 
 We’re still in somewhat of a seller’s market, and people are asking us if there’s any way to find success as a homebuyer. More specifically, they want to know how to make an unbeatable offer that cuts through the competition. Here’s how we get an offer accepted.
 
-**First, we call ahead to the seller’s agent.** We find out what’s in their seller’s best interest by asking where they’re moving, when they want to close, and so on. We want to package the offer in a way that appeals to the seller, so it’s important to find out through the agent what works best.
+**First, we call ahead to the seller’s agent.** We find out what’s in their seller’s best interest by asking where they’re moving, when they want to close, and so on. We want to package the offer in a way that appeals to the seller so it’s important to find out through the agent what works best.
 
 {% include pullquote.html %}
 
