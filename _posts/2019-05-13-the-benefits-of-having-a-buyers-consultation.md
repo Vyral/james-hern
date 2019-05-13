@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Benefits of Having a Buyer’s Consultation
-date: 2019-05-13 19:42:27
+date: 2019-05-13 19:42:00
 tags:
   - Home Buyer Tips
 excerpt: >-
