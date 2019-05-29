@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Importance of Having a Home Inspection
-date: 2019-05-29 14:31:32
+date: 2019-05-29 14:31:00
 tags:
   - Home Buyer Tips
 excerpt: >-
