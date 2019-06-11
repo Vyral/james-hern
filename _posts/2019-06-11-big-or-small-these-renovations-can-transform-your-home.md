@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Big or Small, These Renovations Can Transform Your Home'
-date: 2019-06-11 18:10:21
+date: 2019-06-11 18:10:00
 tags:
   - Home Seller Tips
 excerpt: >-
