@@ -29,7 +29,7 @@ One lower-cost renovation you can make is **increasing your curb appeal**. Somet
 
 Also a simple fix, **replacing the hardware** on your cabinet doors and any other door in your home can totally transform the look of your home.&nbsp;
 
-The next one on the list should come as no surprise: **painting**. Especially if you have young children, your home’s walls are probably not exactly in pristine condition. Over time, the walls of a lived-home tend to have scuffs, knicks, and maybe even fingerprints. Whether it’s your walls or cabinets, applying some new paint can add a great deal of buyer appeal. &nbsp;
+The next one on the list should come as no surprise: **painting**. Especially if you have young children, your home’s walls probably aren't exactly in pristine condition. Over time, the walls of a lived-in home tend to have scuffs, nicks, and maybe even fingerprints. Whether it’s your walls or cabinets, applying some new paint can add a great deal of buyer appeal.
 
 {% include pullquote.html %}
 
