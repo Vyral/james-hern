@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Benefit From Having a Home Warranty?
-date: 2019-06-25 14:19:03
+date: 2019-06-25 14:19:00
 tags:
   - Home Buyer Tips
 excerpt: >-
