@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Benefits of a Buyer’s Needs Analysis
-date: 2019-07-12 13:24:25
+date: 2019-07-12 13:24:00
 tags:
   - Home Buyer Tips
 excerpt: >-
