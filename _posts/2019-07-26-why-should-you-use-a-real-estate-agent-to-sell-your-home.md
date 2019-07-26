@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Should You Use a Real Estate Agent to Sell Your Home?
-date: 2019-07-26 14:49:45
+date: 2019-07-26 14:49:00
 tags:
   - Home Seller Tips
 excerpt: >-
