@@ -28,6 +28,6 @@ For starters, **how do you know how much your property is worth?** If you’re b
 
 **Sellers also commonly make the mistake of doing unnecessary repairs.** They’ll often make improvements that won’t bring them a valuable return upon the sale of their home. Just asking a real estate professional about whether and where you should spend your money will prevent that loss.
 
-**That’s what we’re here for: to help you get the most money from your home sale.** Isn’t that what selling your home is all about?
+**We're here to help you get the most money from your home sale.** Isn’t that what selling your home is all about?
 
 If you have any questions about hiring an agent or about selling your home, reach out to us. We’ll be happy to answer any of your questions.
