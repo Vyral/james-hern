@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Why should you hire a real estate agent if you’re thinking of selling your
   home? Find out here.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Hern+Group/Why+Should+You+Use+a+Real+Estate+Agent+to+Sell+Your+Home_.mp4
 pullquote: >-
   Just asking a real estate professional about whether and where you should
   spend your money will prevent that loss.
