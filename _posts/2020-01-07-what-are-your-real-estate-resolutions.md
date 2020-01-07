@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are Your Real Estate Resolutions?
-date: 2020-01-07 20:06:56
+date: 2020-01-07 20:06:00
 tags:
   - Real Estate
 excerpt: Here’s why you should have a real estate resolution this year.
