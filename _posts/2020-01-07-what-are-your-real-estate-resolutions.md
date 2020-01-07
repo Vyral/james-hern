@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/Ip4HtOam5gk'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s why you should have a real estate resolution this year.</em></p>
+
 We have a question for you: What is your real estate resolution for 2020?&nbsp;
 
 Are you considering buying or selling this year? It may be the best time to do so. Are you looking to invest or continue investing in real estate? This is the year to do it.&nbsp;
