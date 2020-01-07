@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Are Your Real Estate Resolutions?
+title: What Is Your New Year’s Resolution?
 date: 2020-01-07 20:06:00
 tags:
   - Real Estate
