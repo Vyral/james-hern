@@ -27,4 +27,4 @@ If you aren’t ready to do any of those things, but you own a home, you may be 
 
 {% include pullquote.html %}
 
-We would love to help and counsel you in all of these areas. Please contact us, **we’d be glad to sit down and have a consultation to discuss your real estate resolutions this year.** We want to hear about your goals. We look forward to helping you. Contact us by phone or email. Have an excellent year\!
+We would love to help and counsel you in all of these areas, so please contact us; **we’d be glad to sit down and have a consultation to discuss your real estate resolutions this year.** Don't hesitate to reach out to us—we'd love to help you with your goals. In the meantime, have an excellent year\!
